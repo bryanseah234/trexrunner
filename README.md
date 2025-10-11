@@ -1,10 +1,7 @@
-# chrome-trex
+# trex-runner
 the trex runner game extracted from chrome offline page.
 
 ![chrome offline game cast](assets/screenshot.gif)
-
-## Disclaimer:
-1. SEE THE [SOURCE](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
 ## Demo:
 1. http://wayou.github.io/t-rex-runner/
