@@ -1,4 +1,4 @@
-# chrome-trex-code
+# chrome-trex
 the trex runner game extracted from chrome offline page.
 
 ![chrome offline game cast](assets/screenshot.gif)
